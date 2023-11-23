@@ -17,9 +17,9 @@ All public functions are in the LynxAndroidSystemCom.java file.
 These are statics and can be called from a Unity or an Unreal project. 
 exemples : 
 
-public static void enableWifi(Context context, boolean enable)
+*public static void enableWifi(Context context, boolean enable)*
 
-public static void deletePackage(Activity currentActivity, String packageName)
+*#public static void deletePackage(Activity currentActivity, String packageName)*
 
 Note that **Android Context** and **Android activity** are often used as argument of these functions 
 and are given by the calling application.
