@@ -10,7 +10,8 @@ Open the project with a recent Android Studio version.
 Choose the project configuration lynxAndroidSystemCom and the release build variant. 
 Build the project (Make project). 
 To get the generated .jar, go to in the root folder and execute GetLynxLib.bat. 
-The library will be recopied in the GeneratedLynxLib folder, with the name LynxAndroidSystemCom.jar. 
+The library will be recopied in the GeneratedLynxLib folder, with the name LynxAndroidSystemCom.jar.  
+Note that you have an already compiled library in the bin folder. 
 
 ### Structure of the library
 All public functions are in the **LynxAndroidSystemCom.java** file.  
